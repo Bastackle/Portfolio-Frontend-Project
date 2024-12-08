@@ -5,6 +5,7 @@ As a part of 01418214-65 Practicum in Software Development course at the Compute
 This project is a building web page about a personal portfolio that designed to showcase personal data, academic records and skills. Built using Veu.js for an interactive and responsive user experience.
 
 **Deploy:** https://portfolio-frontend-project.vercel.app
+**Canva Presentation:** https://www.canva.com/design/DAGYrS-7TEE/P12AtXEdYB1Bb26PlugEVA/edit?utm_content=DAGYrS-7TEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Web Pages Sections
 
