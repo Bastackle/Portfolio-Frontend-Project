@@ -1,24 +1,37 @@
-# portfolio
+# Portfolio - Frontend Project
+
+As a part of 01418214-65 Practicum in Software Development course at the Computer Science department of Kasetsart University Sriracha Campus
+
+This project is a building web page about a personal portfolio that designed to showcase personal data, academic records and skills. Built using Veu.js for an interactive and responsive user experience.
+
+**Deploy:** https://dekd-frontend-intern-challenge.vercel.app/
+
+## Web Pages Sections
+
+* **About Me:** This section provides an introduction to who I am, including personal background, interests, and professional aspirations.
+* **Hobbies:** In this section, I share some of my favorite activities and hobbies that I enjoy doing in my free time.
+* **Education:** Here, I outline my educational background, including the institutions I have attended and the degrees or certifications I have obtained.
+* **Academic Records (Show/Add):** This section allows users to view and add details about their academic achievements, including courses taken, grades, and special academic awards.
+* **Skills:** Here, I list the programming languages I am skilled in.
+
+## Technologies Used
+#### Frontend
+* Framework/Library: Vue.js
 
 ## Project setup
+1. Clone the repository:
 ```
-npm install
+git clone https://github.com/Bastackle/Portfolio-Frontend-Project.git
 ```
 
-### Compiles and hot-reloads for development
+2. Start the development server
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+3. Start the JSON server
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npx json-server --watch db/subject_grade.json
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Open http://localhost:8080 with your browser to see the result.
