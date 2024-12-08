@@ -4,7 +4,7 @@ As a part of 01418214-65 Practicum in Software Development course at the Compute
 
 This project is a building web page about a personal portfolio that designed to showcase personal data, academic records and skills. Built using Veu.js for an interactive and responsive user experience.
 
-**Deploy:** https://dekd-frontend-intern-challenge.vercel.app/
+**Deploy:** https://portfolio-frontend-project.vercel.app
 
 ## Web Pages Sections
 
