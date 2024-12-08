@@ -1,0 +1,130 @@
+{
+  "Subject_Grade": [
+    {
+      "id": "01355102",
+      "name": "English for University Life",
+      "Credit": 3,
+      "Grade": "B+",
+      "academicYr": 2565,
+      "Semester": 1,
+      "isShow": false
+    },
+    {
+      "id": "01417111",
+      "name": "Calculus I",
+      "Credit": 3,
+      "Grade": "B+",
+      "academicYr": 2565,
+      "Semester": 1,
+      "isShow": false
+    },
+    {
+      "id": "01418111",
+      "name": "Introduction to Computer Science",
+      "Credit": 2,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 1,
+      "isShow": false
+    },
+    {
+      "id": "01418112",
+      "name": "Fundamental Programming Concepts",
+      "Credit": 3,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 1,
+      "isShow": false
+    },
+    {
+      "id": "01418141",
+      "name": "Intellectual Properties and Professional Ethics",
+      "Credit": 3,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 1,
+      "isShow": false
+    },
+    {
+      "id": "01999021",
+      "name": "Thai Language for Communication",
+      "Credit": 3,
+      "Grade": "B+",
+      "academicYr": 2565,
+      "Semester": 1,
+      "isShow": false
+    },
+    {
+      "id": "01999111",
+      "name": "Knowledge of the Land",
+      "Credit": 2,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 1,
+      "isShow": false
+    },
+    {
+      "id": "02999144",
+      "name": "Life Skill for Undergraduate Student",
+      "Credit": 1,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 1,
+      "isShow": false
+    },
+    {
+      "id": "01175118",
+      "name": "Chair Ball for Health",
+      "Credit": 1,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 2,
+      "isShow": false
+    },
+    {
+      "id": "01417322",
+      "name": "Basic Linear Algebra",
+      "Credit": 3,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 2,
+      "isShow": false
+    },
+    {
+      "id": "01418113",
+      "name": "Computer Programming",
+      "Credit": 3,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 2,
+      "isShow": false
+    },
+    {
+      "id": "01418131",
+      "name": "Statistical Programming",
+      "Credit": 3,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 2,
+      "isShow": false
+    },
+    {
+      "id": "01418132",
+      "name": "Fundamentals of Computing",
+      "Credit": 3,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 2,
+      "isShow": false
+    },
+    {
+      "id": "03600014",
+      "name": "Creative Problem Solving and Critical Thinking Skills",
+      "Credit": 3,
+      "Grade": "A",
+      "academicYr": 2565,
+      "Semester": 2,
+      "isShow": false
+    }
+  ]
+}
